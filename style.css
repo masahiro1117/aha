@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+h1 {
+    color: brown;
+    font-weight: ;
+}
+
+div {
+    font-size: 30px;
+    margin: 50px 0 10px 40px;
+}
+
+div,li {
+    margin: 0 0 0 40px;
+    list-style-type: square;
+    
+}
